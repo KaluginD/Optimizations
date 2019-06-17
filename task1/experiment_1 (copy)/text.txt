@@ -1,0 +1,19 @@
+cond = 1.51, j = 0, method = Wolfe, steps = 5
+cond = 1.51, j = 0, method = Armijo, steps = 8
+cond = 1.51, j = 0, method = Constant, steps = 5
+cond = 1.51, j = 1, method = Wolfe, steps = 5
+cond = 1.51, j = 1, method = Armijo, steps = 9
+cond = 1.51, j = 1, method = Constant, steps = 5
+cond = 1.51, j = 2, method = Wolfe, steps = 6
+cond = 1.51, j = 2, method = Armijo, steps = 7
+cond = 1.51, j = 2, method = Constant, steps = 6
+cond = 11.356, j = 0, method = Wolfe, steps = 31
+cond = 11.356, j = 0, method = Armijo, steps = 32
+cond = 11.356, j = 0, method = Constant, steps = 62
+cond = 11.356, j = 1, method = Wolfe, steps = 31
+cond = 11.356, j = 1, method = Armijo, steps = 33
+cond = 11.356, j = 1, method = Constant, steps = 61
+cond = 11.356, j = 2, method = Wolfe, steps = 28
+cond = 11.356, j = 2, method = Armijo, steps = 29
+cond = 11.356, j = 2, method = Constant, steps = 54
+alpha_0 = 100
